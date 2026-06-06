@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/me/Coding/Wordle/out/build/Clang",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Wordle.dir/main.cpp.o -c /home/me/Coding/Wordle/main.cpp",
+  "file": "/home/me/Coding/Wordle/main.cpp",
+  "output": "CMakeFiles/Wordle.dir/main.cpp.o"
+}
+]

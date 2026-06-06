@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/Wordle.dir/link.d CMakeFiles/Wordle.dir/main.cpp.o -o Wordle

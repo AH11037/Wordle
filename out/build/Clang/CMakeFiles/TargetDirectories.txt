@@ -1,0 +1,3 @@
+/home/me/Coding/Wordle/out/build/Clang/CMakeFiles/Wordle.dir
+/home/me/Coding/Wordle/out/build/Clang/CMakeFiles/edit_cache.dir
+/home/me/Coding/Wordle/out/build/Clang/CMakeFiles/rebuild_cache.dir
