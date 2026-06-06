@@ -96,6 +96,9 @@ Wordle_EXTERNAL_OBJECTS =
 Wordle: CMakeFiles/Wordle.dir/main.cpp.o
 Wordle: CMakeFiles/Wordle.dir/build.make
 Wordle: CMakeFiles/Wordle.dir/compiler_depend.ts
+Wordle: /usr/lib64/libsfml-graphics.so.2.6.2
+Wordle: /usr/lib64/libsfml-window.so.2.6.2
+Wordle: /usr/lib64/libsfml-system.so.2.6.2
 Wordle: CMakeFiles/Wordle.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/me/Coding/Wordle/out/build/Clang/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Wordle"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Wordle.dir/link.txt --verbose=$(VERBOSE)

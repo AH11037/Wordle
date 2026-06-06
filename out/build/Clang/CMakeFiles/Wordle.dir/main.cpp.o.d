@@ -1,5 +1,10 @@
 CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iostream \
+  /home/me/Coding/Wordle/franklin-normal-700\ (1).hpp \
+  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
+  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
+  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \
+  /usr/include/SFML/System/Time.hpp /usr/include/SFML/System/Err.hpp \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ostream \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/requires_hosted.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/c++config.h \
   /usr/include/bits/wordsize.h \
@@ -10,7 +15,6 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/cpu_defines.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/pstl/pstl_config.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ostream \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ostream.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ios \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iosfwd \
@@ -169,5 +173,103 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/locale_facets.tcc \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/basic_ios.tcc \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ostream.tcc \
+  /usr/include/SFML/System/FileInputStream.hpp \
+  /usr/include/SFML/System/InputStream.hpp \
+  /usr/include/SFML/System/NonCopyable.hpp \
+  /usr/include/SFML/System/Lock.hpp \
+  /usr/include/SFML/System/MemoryInputStream.hpp \
+  /usr/include/SFML/System/Mutex.hpp /usr/include/SFML/System/Sleep.hpp \
+  /usr/include/SFML/System/String.hpp /usr/include/SFML/System/Utf.hpp \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/algorithm \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_algo.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/algorithmfwd.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_heap.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/uniform_int_dist.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_tempbuf.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/pstl/glue_algorithm_defs.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/pstl/execution_defs.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/locale \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/locale_facets_nonio.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ctime \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/time_members.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/messages_members.h \
+  /usr/include/libintl.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/codecvt.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/locale_facets_nonio.tcc \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/locale_conv.h \
+  /usr/include/SFML/System/Utf.inl \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iterator \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stream_iterator.h \
+  /usr/include/SFML/System/String.inl \
+  /usr/include/SFML/System/Thread.hpp \
+  /usr/include/SFML/System/Thread.inl \
+  /usr/include/SFML/System/ThreadLocal.hpp \
+  /usr/include/SFML/System/ThreadLocalPtr.hpp \
+  /usr/include/SFML/System/ThreadLocalPtr.inl \
+  /usr/include/SFML/System/Vector2.hpp \
+  /usr/include/SFML/System/Vector2.inl \
+  /usr/include/SFML/System/Vector3.hpp \
+  /usr/include/SFML/System/Vector3.inl \
+  /usr/include/SFML/Window/Clipboard.hpp \
+  /usr/include/SFML/Window/Export.hpp \
+  /usr/include/SFML/Window/Context.hpp \
+  /usr/include/SFML/Window/GlResource.hpp \
+  /usr/include/SFML/Window/ContextSettings.hpp \
+  /usr/include/SFML/Window/Cursor.hpp /usr/include/SFML/Window/Event.hpp \
+  /usr/include/SFML/Window/Joystick.hpp \
+  /usr/include/SFML/Window/Keyboard.hpp \
+  /usr/include/SFML/Window/Mouse.hpp /usr/include/SFML/Window/Sensor.hpp \
+  /usr/include/SFML/Window/Touch.hpp \
+  /usr/include/SFML/Window/VideoMode.hpp \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/vector \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_uninitialized.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_vector.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_bvector.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/vector.tcc \
+  /usr/include/SFML/Window/Window.hpp \
+  /usr/include/SFML/Window/WindowBase.hpp \
+  /usr/include/SFML/Window/Vulkan.hpp \
+  /usr/include/SFML/Window/WindowHandle.hpp \
+  /usr/bin/../lib/clang/21/include/stdint.h /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
+  /usr/include/SFML/Window/WindowStyle.hpp \
+  /usr/include/SFML/Graphics/BlendMode.hpp \
+  /usr/include/SFML/Graphics/Export.hpp \
+  /usr/include/SFML/Graphics/CircleShape.hpp \
+  /usr/include/SFML/Graphics/Shape.hpp \
+  /usr/include/SFML/Graphics/Drawable.hpp \
+  /usr/include/SFML/Graphics/RenderStates.hpp \
+  /usr/include/SFML/Graphics/Transform.hpp \
+  /usr/include/SFML/Graphics/Rect.hpp \
+  /usr/include/SFML/Graphics/Rect.inl \
+  /usr/include/SFML/Graphics/Transformable.hpp \
+  /usr/include/SFML/Graphics/VertexArray.hpp \
+  /usr/include/SFML/Graphics/Vertex.hpp \
+  /usr/include/SFML/Graphics/Color.hpp \
+  /usr/include/SFML/Graphics/PrimitiveType.hpp \
+  /usr/include/SFML/Graphics/ConvexShape.hpp \
+  /usr/include/SFML/Graphics/Font.hpp \
+  /usr/include/SFML/Graphics/Glyph.hpp \
+  /usr/include/SFML/Graphics/Texture.hpp \
+  /usr/include/SFML/Graphics/Image.hpp \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/map \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_tree.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ext/aligned_buffer.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/node_handle.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_map.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_multimap.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/erase_if.h \
+  /usr/include/SFML/Graphics/RectangleShape.hpp \
+  /usr/include/SFML/Graphics/RenderTarget.hpp \
+  /usr/include/SFML/Graphics/View.hpp \
+  /usr/include/SFML/Graphics/RenderTexture.hpp \
+  /usr/include/SFML/Graphics/RenderWindow.hpp \
+  /usr/include/SFML/Graphics/Shader.hpp \
+  /usr/include/SFML/Graphics/Glsl.hpp \
+  /usr/include/SFML/Graphics/Glsl.inl \
+  /usr/include/SFML/Graphics/Sprite.hpp \
+  /usr/include/SFML/Graphics/Text.hpp \
+  /usr/include/SFML/Graphics/VertexBuffer.hpp \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iostream \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/istream \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/istream.tcc
