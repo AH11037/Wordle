@@ -36,6 +36,7 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/include/c++/15/bits/exception.h \
   /usr/include/c++/15/bits/exception_defines.h \
   /usr/include/c++/15/bits/exception_ptr.h \
+  /usr/include/c++/15/bits/fstream.tcc \
   /usr/include/c++/15/bits/functexcept.h \
   /usr/include/c++/15/bits/functional_hash.h \
   /usr/include/c++/15/bits/hash_bytes.h \
@@ -112,6 +113,7 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/include/c++/15/ext/numeric_traits.h \
   /usr/include/c++/15/ext/string_conversions.h \
   /usr/include/c++/15/ext/type_traits.h \
+  /usr/include/c++/15/fstream \
   /usr/include/c++/15/initializer_list \
   /usr/include/c++/15/ios \
   /usr/include/c++/15/iosfwd \
@@ -135,8 +137,10 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/include/c++/15/typeinfo \
   /usr/include/c++/15/vector \
   /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
+  /usr/include/c++/15/x86_64-redhat-linux/bits/basic_file.h \
   /usr/include/c++/15/x86_64-redhat-linux/bits/c++allocator.h \
   /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
+  /usr/include/c++/15/x86_64-redhat-linux/bits/c++io.h \
   /usr/include/c++/15/x86_64-redhat-linux/bits/c++locale.h \
   /usr/include/c++/15/x86_64-redhat-linux/bits/cpu_defines.h \
   /usr/include/c++/15/x86_64-redhat-linux/bits/ctype_base.h \
@@ -484,6 +488,10 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/bits/time64.h:
 
+/usr/include/bits/struct_mutex.h:
+
+/usr/include/bits/stdio_lim.h:
+
 /usr/include/c++/15/stdexcept:
 
 /usr/include/c++/15/pstl/pstl_config.h:
@@ -598,6 +606,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/c++/15/bits/predefined_ops.h:
 
+/usr/include/c++/15/bits/postypes.h:
+
 /usr/include/c++/15/bits/node_handle.h:
 
 /usr/include/SFML/Window/Cursor.hpp:
@@ -618,9 +628,15 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/c++/15/pstl/glue_algorithm_defs.h:
 
-/usr/include/c++/15/streambuf:
+/usr/include/errno.h:
+
+/usr/include/c++/15/cstddef:
+
+/usr/include/SFML/Window/Clipboard.hpp:
 
 /usr/include/c++/15/bits/basic_string.h:
+
+/usr/include/c++/15/streambuf:
 
 /usr/include/c++/15/istream:
 
@@ -631,12 +647,6 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/SFML/Window/Event.hpp:
 
 /usr/include/SFML/System/String.inl:
-
-/usr/include/errno.h:
-
-/usr/include/c++/15/cstddef:
-
-/usr/include/SFML/Window/Clipboard.hpp:
 
 /usr/include/c++/15/backward/binders.h:
 
@@ -670,7 +680,7 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/SFML/System/Vector2.hpp:
 
-/usr/include/c++/15/string:
+/usr/include/c++/15/x86_64-redhat-linux/bits/c++io.h:
 
 /usr/include/c++/15/bits/uses_allocator_args.h:
 
@@ -712,20 +722,6 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/bits/pthreadtypes-arch.h:
 
-/usr/include/c++/15/bits/locale_facets_nonio.tcc:
-
-/usr/include/bits/types/struct_timespec.h:
-
-/usr/include/SFML/Window/Sensor.hpp:
-
-/usr/include/c++/15/bits/invoke.h:
-
-/usr/include/SFML/System/ThreadLocalPtr.inl:
-
-/usr/include/SFML/Window/WindowHandle.hpp:
-
-/usr/include/SFML/Window/WindowStyle.hpp:
-
 /usr/include/bits/struct_rwlock.h:
 
 /usr/include/c++/15/bits/uses_allocator.h:
@@ -737,6 +733,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/c++/15/bits/basic_ios.h:
 
 /usr/include/c++/15/bits/refwrap.h:
+
+/usr/include/c++/15/x86_64-redhat-linux/bits/basic_file.h:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/gthr.h:
 
@@ -753,6 +751,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/SFML/Graphics/Glsl.hpp:
 
 /usr/include/bits/pthread_stack_min-dynamic.h:
+
+/usr/include/c++/15/bits/ostream.h:
 
 /usr/include/bits/wchar.h:
 
@@ -794,8 +794,6 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/c++/15/bits/basic_string.tcc:
 
-/usr/include/c++/15/bits/ostream.h:
-
 /usr/lib64/libpng16.so.16:
 
 /usr/include/c++/15/bits/alloc_traits.h:
@@ -805,6 +803,20 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/bits/time.h:
 
 /usr/include/asm/posix_types.h:
+
+/usr/include/c++/15/bits/locale_facets_nonio.tcc:
+
+/usr/include/bits/types/struct_timespec.h:
+
+/usr/include/SFML/Window/Sensor.hpp:
+
+/usr/include/c++/15/bits/invoke.h:
+
+/usr/include/SFML/System/ThreadLocalPtr.inl:
+
+/usr/include/SFML/Window/WindowHandle.hpp:
+
+/usr/include/SFML/Window/WindowStyle.hpp:
 
 /usr/lib/clang/21/include/__stddef_wchar_t.h:
 
@@ -836,8 +848,6 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/c++/15/bits/locale_classes.h:
 
-/usr/include/c++/15/bits/postypes.h:
-
 /usr/include/c++/15/bits/stl_algo.h:
 
 /usr/include/c++/15/bits/erase_if.h:
@@ -845,6 +855,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/c++/15/bits/stringfwd.h:
 
 /usr/lib64/libXcursor.so.1:
+
+/usr/include/c++/15/bits/fstream.tcc:
 
 /usr/include/c++/15/bits/memoryfwd.h:
 
@@ -866,6 +878,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/bits/errno.h:
 
+/usr/include/c++/15/string:
+
 /usr/include/c++/15/tuple:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h:
@@ -882,13 +896,15 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/ctype_inline.h:
 
-/usr/include/bits/stdio_lim.h:
-
 /usr/include/c++/15/x86_64-redhat-linux/bits/error_constants.h:
 
 /usr/include/c++/15/bits/exception_ptr.h:
 
 /usr/include/bits/floatn-common.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/c++/15/x86_64-redhat-linux/bits/gthr-default.h:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/messages_members.h:
 
@@ -959,6 +975,10 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/SFML/Graphics/RenderWindow.hpp:
 
 /usr/include/SFML/Graphics/Shape.hpp:
+
+/usr/include/bits/stdint-uintn.h:
+
+/usr/include/asm/errno.h:
 
 /usr/include/linux/posix_types.h:
 
@@ -1038,6 +1058,8 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 
 /usr/include/SFML/Graphics/Font.hpp:
 
+/usr/include/c++/15/fstream:
+
 /usr/include/SFML/Window/VideoMode.hpp:
 
 /usr/include/SFML/Window/Vulkan.hpp:
@@ -1079,13 +1101,3 @@ CMakeFiles/Wordle.dir/main.cpp.o:
 /usr/include/bits/types/__FILE.h:
 
 /usr/include/bits/sched.h:
-
-/usr/include/asm/errno.h:
-
-/usr/include/bits/stdint-uintn.h:
-
-/usr/include/c++/15/x86_64-redhat-linux/bits/gthr-default.h:
-
-/usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/struct_mutex.h:

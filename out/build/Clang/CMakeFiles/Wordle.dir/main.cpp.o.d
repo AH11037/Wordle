@@ -53,6 +53,16 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/type_traits \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/nested_exception.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/char_traits.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/compare \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/concepts \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_construct.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_iterator_base_types.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/iterator_concepts.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ptr_traits.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ranges_cmp.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_iterator_base_funcs.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/concept_check.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/debug/assertions.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/localefwd.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/c++locale.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/clocale \
@@ -101,13 +111,8 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/cpp_type_traits.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ostream_insert.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/cxxabi_forced.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_iterator_base_funcs.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/concept_check.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/debug/assertions.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_iterator_base_types.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_iterator.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ext/type_traits.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ptr_traits.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_function.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/backward/binders.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ext/numeric_traits.h \
@@ -117,7 +122,6 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/debug/debug.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/predefined_ops.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bit \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/concepts \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/refwrap.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/invoke.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/range_access.h \
@@ -125,9 +129,11 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/basic_string.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ext/alloc_traits.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/alloc_traits.h \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_construct.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/string_view \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/functional_hash.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ranges_base.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/max_size_type.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/numbers \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/string_view.tcc \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/ext/string_conversions.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/cstdlib \
@@ -157,6 +163,7 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/uses_allocator.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/uses_allocator_args.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/tuple \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ranges_util.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/locale_classes.tcc \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/system_error \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/error_constants.h \
@@ -186,6 +193,8 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_heap.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/uniform_int_dist.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/stl_tempbuf.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ranges_algo.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/ranges_algobase.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/pstl/glue_algorithm_defs.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/pstl/execution_defs.h \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/locale \
@@ -270,6 +279,15 @@ CMakeFiles/Wordle.dir/main.cpp.o: /home/me/Coding/Wordle/main.cpp \
   /usr/include/SFML/Graphics/Sprite.hpp \
   /usr/include/SFML/Graphics/Text.hpp \
   /usr/include/SFML/Graphics/VertexBuffer.hpp \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iostream \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/fstream \
   /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/istream \
-  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/istream.tcc
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/istream.tcc \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/basic_file.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/x86_64-redhat-linux/bits/c++io.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/fstream.tcc \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/iostream \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/unordered_set \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/unordered_set.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/hashtable.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/hashtable_policy.h \
+  /usr/bin/../lib/gcc/x86_64-redhat-linux/15/../../../../include/c++/15/bits/enable_special_members.h
